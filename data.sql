@@ -1,4 +1,4 @@
--- /* Populate database with sample data. */
+/* Populate database with sample data. */
 -- BEGIN;
 
 -- -- insert data into owners table
